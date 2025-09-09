@@ -6,6 +6,10 @@ Ce projet illustre mes premiers pas dans le développement avec VBA, réalisés 
 
 Cette seconde étape m’a permis de créer un **premier programme réellement utile** avec le langage VBA. Vers 2007–2008, les solutions logicielles étaient bien plus coûteuses, et la boutique ne pouvait pas se permettre un programme "tout-en-un". J’ai donc développé mes propres outils sur Excel afin de répondre aux besoins du quotidien.
 
+À l’époque, j’utilisais l’éditeur de code d’Excel : chaque action dans le tableur était traduite automatiquement en code.  Je décortiquais ces transcriptions pour comprendre quelle instruction correspondait à chaque manipulation, puis je les combinais pour construire pas à pas un petit programme comptable.
+
+De fil en aiguille, je découvrais les spécificités de VBA jusqu’à pouvoir écrire directement le code de manière autonome.
+
 ---
 
 ## Difficultés rencontrées
