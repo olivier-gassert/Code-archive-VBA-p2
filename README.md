@@ -35,23 +35,23 @@ Le fichier **Clients_.bas** contient plusieurs procédures (Sub) destinées à �
 
 ### Ordre d’exécution conseillé
 
-1. **`Bouton_Nouveau_Dossier_Clients()`**  
+1. `Bouton_Nouveau_Dossier_Clients()`
    Crée un dossier client.
 
-2. **`Bouton_Mise_à_Jour_Facture_et_Livraison_1_Page()`** 
-Transfère les informations insérées dans la feuille Adresse vers les autres feuilles.
+2. `Bouton_Mise_à_Jour_Facture_et_Livraison_1_Page()`
+   Transfère les informations insérées dans la feuille Adresse vers les autres feuilles.
 
-3. **`Bouton_Switch_Facture_Devis_Facture_et_Livraison_1_Page()`** 
-Permet de transformer une facture en devis (et inversement) selon le besoin.
+3. `Bouton_Switch_Facture_Devis_Facture_et_Livraison_1_Page()`
+   Permet de transformer une facture en devis (et inversement) selon le besoin.
 
-4. **`Bouton_finition_facture_acompte()`** 
-Ajoute l’acompte versé et calcule le solde restant.
+4. `Bouton_finition_facture_acompte()`
+   Ajoute l’acompte versé et calcule le solde restant.
 
-5. **`Bouton_Impression_Facture_et_Livraison_1_Page()`** 
-IImprime la ou les pages de la facture et du bon de livraison.
+5. `Bouton_Impression_Facture_et_Livraison_1_Page()`
+   IImprime la ou les pages de la facture et du bon de livraison.
 
-6. **`Nouvelle_Facture_Livraison_Certificat_1_Page()`** 
-Crée une nouvelle facture (de une à trois pages).
+6. `Nouvelle_Facture_Livraison_Certificat_1_Page()`
+   Crée une nouvelle facture (de une à trois pages).
 
 
 ### Autres fichiers
@@ -59,7 +59,7 @@ Les fichiers **XLSX** fournis dans le repository sont des **aperçus visuels** d
 
 ---
 
-### Prochaine étape  
+## Prochaine étape  
 
 Continuer à perfectionner ce programme **Client** avec des mises à jour régulières, et amorcer le développement d’un programme de gestion des salaires.  
 
