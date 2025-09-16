@@ -1,4 +1,4 @@
-# Code-archive-VBA-Partie-2
+# Code-archive-VBA-Partie 2
 
 Ce projet illustre mes premiers pas dans le développement avec VBA, réalisés dans le but de digitaliser et réorganiser l’administration d’une boutique.
 
